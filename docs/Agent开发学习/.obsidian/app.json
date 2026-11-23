@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Res/Images",
+  "autoConvertHtml": true,
+  "autoPairBrackets": false,
+  "spellcheck": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
