@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "deepagents>=0.7.41",
     "langchain>=1.5.2",
     "langchain-openai>=1.8.5",
 ]
